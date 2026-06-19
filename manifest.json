@@ -1,0 +1,17 @@
+{
+  "name": "RandumbRadar 2.0",
+  "version": "2.0.0-beta.1",
+  "home_assistant_domain": "",
+  "new_install_prompt_erase": true,
+  "builds": [
+    {
+      "chipFamily": "ESP32",
+      "parts": [
+        {
+          "path": "firmware/v2.0.0-beta.1/RandumbRadar2.0.ino.merged.bin",
+          "offset": 0
+        }
+      ]
+    }
+  ]
+}
