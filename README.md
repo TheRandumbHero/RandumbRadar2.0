@@ -1,13 +1,7 @@
 <p align="center">
-<img src="/images/RandumbRadar2_Logo.png" alt="RR_Logo" style="width:200px;"/>
+<img src="/images/RandumbRadar2_Logo.png" alt="RR_Logo" style="width:337px;"/>
 
-
-Theres a few of these online now and I wanted to add my own flair to my own so I set about designing my own code (with the help of ChatGPT) and my own 3D printed case. Whilst this is not a fork or remix it is heavily inspired by @github/arvis91/
-The idea was to see whether I could create my own Desktop Radar software with a 3D printed case that only uses friction fit for all the componants and if possible to make it plug and play with no requirement for soldering if you weren't confident. 
-
-Design wise the screen mount is designed around the one I ordered which I have listed below but I have some more coming from AliExpress (to reduce cost) to see if these also fit.
-
-So without further ado please see below!
+So I've done a version one, but it told me nothing about the aircraft near me! So a friend suggested the Cheap Yellow Display or CYD. So I Amazon'd one and got to work. Similarly to V1 it uses the OpenSky Network API based on a free account. It means that it rechecks for aircraft every 20seconds or so but this gives you time to look at them before they move on. Especially in a busy area.
 
 ## Parts List
 
