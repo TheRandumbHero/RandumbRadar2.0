@@ -3,6 +3,9 @@
 
 So I've done a version one, but it told me nothing about the aircraft near me! So a friend suggested the Cheap Yellow Display or CYD. So I Amazon'd one and got to work. Similarly to V1 it uses the OpenSky Network API based on a free account. It means that it rechecks for aircraft every 20seconds or so but this gives you time to look at them before they move on. Especially in a busy area.
 
+> [!NOTE]
+> Please bear in mind this still in Beta as I get use to GitHub & Arduino IDE.
+
 ## Parts List
 
 - 3D Printed Case - [RandumbPrints - Makerworld.com](https://makerworld.com/en/@RandumbPrints)
