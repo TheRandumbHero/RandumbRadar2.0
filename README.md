@@ -62,6 +62,22 @@ Now is the fun stuff. Head back to the Dashboard, Click Customisations and go cr
   <a href="/images/Customisation.png">
     <img src="/images/Customisation.png" width="180" alt="Initial">
   </a>
+  <a href="/images/Green_Home.jpeg">
+    <img src="/images/Green_Home.jpeg" width="180" alt="Green Home">
+  </a>
+  <a href="/images/Settings_Menu.jpeg">
+    <img src="/images/Settings_Menu.jpeg" width="180" alt="Settings">
+  </a>
+    <a href="/images/Customisation_Options.jpeg">
+    <img src="/images/Customisation_Options.jpeg" width="180" alt="Options">
+  </a>
+  <a href="/images/Blue_Home.jpeg">
+    <img src="/images/Blue_Home.jpeg" width="180" alt="Blue Home">
+  </a>
+    <a href="/images/Red_Home.jpeg">
+    <img src="/images/Red_Home.jpeg" width="180" alt="Red Home">
+  </a>
+
    
   </a>
 </p>
