@@ -1,0 +1,6 @@
+Change Notes:
+
+- Tapping an aircraft now adds a small circle around aircraft to show interaction.
+- Aircraft loading screen updated
+- Aircraft information updated
+- Scan timer added to bottom left to show how long left till the next API call
