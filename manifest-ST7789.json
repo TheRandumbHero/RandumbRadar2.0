@@ -8,19 +8,19 @@
       "chipFamily": "ESP32",
       "parts": [
         {
-          "path": "firmware/v2.0.1-beta.1/bootloader.bin",
+          "path": "firmware/ST7789/v2.0.0/bootloader.bin",
           "offset": 4096
         },
         {
-          "path": "firmware/v2.0.1-beta.1/partitions.bin",
+          "path": "firmware/ST7789/v2.0.0/partitions.bin",
           "offset": 32768
         },
         {
-          "path": "firmware/v2.0.1-beta.1/boot_app0.bin",
+          "path": "firmware/ST7789/v2.0.0/boot_app0.bin",
           "offset": 57344
         },
         {
-          "path": "firmware/v2.0.1-beta.1/firmware.bin",
+          "path": "firmware/ST7789/v2.0.0/firmware.bin",
           "offset": 65536
         }
       ]
