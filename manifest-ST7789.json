@@ -1,6 +1,6 @@
 {
   "name": "RandumbRadar 2.0",
-  "version": "2.0.1-beta.1",
+  "version": "2.0.0 - ST7789",
   "home_assistant_domain": "",
   "new_install_prompt_erase": true,
   "builds": [
@@ -20,7 +20,7 @@
           "offset": 57344
         },
         {
-          "path": "firmware/ST7789/v2.0.0/firmware.bin",
+          "path": "firmware/ST7789/v2.0.0/firmware-ST7789.bin",
           "offset": 65536
         }
       ]
