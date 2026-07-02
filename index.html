@@ -52,6 +52,7 @@
     <img src="images/RandumbRadar2_Logo.png" alt="RandumbRadar2" width="337" height="441">
     <p>Install RandumbRadar 2.0 onto your ESP32 device.</p>
     <p>Beta Version 2.0.1 Now Released</p>
+    <p>If the first webflasher produces a pure white screen please reflash with the other driver. If this also produces an error please let me know</p>
 
     <div class="note">
       <p><strong>Before installing:</strong></p>
@@ -60,8 +61,11 @@
       <p>After flashing, connect to the <strong>RandumbRadar</strong> WIFI Connection and go to <strong>192.168.77.1</strong>.</p>
     </div>
 
-    <esp-web-install-button manifest="manifest.json">
-      <button slot="activate">Install RandumbRadarOS</button>
+    <esp-web-install-button manifest="manifest-ST7789.json">
+      <button slot="activate">Install RandumbRadar - ST7789 Driver</button>
+    </esp-web-install-button>
+    <esp-web-install-button manifest="manifest-ILI9341.json">
+      <button slot="activate">Install RandumbRadar - ILI9341 Driver</button>
     </esp-web-install-button>
   </div>
 </body>
